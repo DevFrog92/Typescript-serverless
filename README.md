@@ -4,7 +4,7 @@
 
 
 ## 목차 <small>(1회차)</small>
-- [ ] 1. 서버리스(Serverless)란?
+- [x] 1. 서버리스(Serverless)란?
 - [ ] 2. AWS 개요
 - [ ] 3. AWS 개발 환경 설정하기
 - [ ] 4. AWS 람다로 서버리스 시작하기
